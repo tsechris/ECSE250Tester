@@ -1,3 +1,6 @@
+# this is an automatically generated .gitignore, please be careful when modifying it
+# ideally, add your own and .gitignore it (if that's possible)
+
 # Compiled class file
 *.class
 
