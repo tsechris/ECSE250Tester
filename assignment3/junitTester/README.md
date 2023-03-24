@@ -43,6 +43,9 @@ If you disagree with them, let me know and we can change them. <br>
 * **Use the appropriate assertion statement** <br>
     Ex: use ```assertTrue``` to check the boolean return of a function rather than ```assertEquals(true, myFct())```
 
+* **Use the appropriate test type** <br>
+    Ex: use parametrized tests if you want to test multiple inputs the same way.
+
 * **Do not print anything** <br>
     Write tests is the other tester if you want to print stuff
 
